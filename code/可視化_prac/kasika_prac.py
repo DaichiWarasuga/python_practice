@@ -15,3 +15,5 @@ plt.show()
 # %%
 print(sns.get_dataset_names())
 # %%
+print("githubわからん！難しい！")
+# %%
